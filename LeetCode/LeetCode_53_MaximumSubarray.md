@@ -1,4 +1,4 @@
-# Leetcode 53: Maximum Subarray
+# LeetCode 53: Maximum Subarray
 
 - [Link to Problem](https://leetcode.com/problems/maximum-subarray/)
 

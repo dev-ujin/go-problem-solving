@@ -1,4 +1,4 @@
-# Leetcode 152: Maximum Product Subarray
+# LeetCode 152: Maximum Product Subarray
 
 - [Link to Problem](https://leetcode.com/problems/maximum-product-subarray/)
 

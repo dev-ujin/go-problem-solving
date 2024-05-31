@@ -1,4 +1,4 @@
-# Leetcode 21: Merge Two Sorted Lists
+# LeetCode 21: Merge Two Sorted Lists
 
 - [Link to Problem](https://leetcode.com/problems/merge-two-sorted-lists/)
 

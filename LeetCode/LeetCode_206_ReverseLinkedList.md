@@ -1,4 +1,4 @@
-# Leetcode 206: Reverse Linked List
+# LeetCode 206: Reverse Linked List
 
 - [Link to Problem](https://leetcode.com/problems/reverse-linked-list/)
 
